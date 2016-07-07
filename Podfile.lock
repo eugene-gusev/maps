@@ -1,0 +1,15 @@
+PODS:
+  - GoogleMaps (1.13.2)
+  - SSKeychain (1.4.0)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - SSKeychain
+
+SPEC CHECKSUMS:
+  GoogleMaps: b20a103ff307f58392e603cf142e59d7e30374c1
+  SSKeychain: c71293fa57216a40ab06c23f4085387583293de4
+
+PODFILE CHECKSUM: 951ef927af8b3dd04c0fc672de0fbd86529bfe89
+
+COCOAPODS: 1.0.0
